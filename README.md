@@ -110,4 +110,4 @@ Recommended to get `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` from secrets.
 
 ## Author
 
-[youyo](https://github.com/youyo)
+[Techwards](https://github.com/Techwards)
